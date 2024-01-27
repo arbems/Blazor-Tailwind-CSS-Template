@@ -1,4 +1,4 @@
-# Blazor + Tailwind CSS Sample
+# Blazor + Tailwind CSS Template
 This repository contains Blazor WebAssembly + Tailwind CSS example template, to start building attractive and functional web applications.
 
 ## Versions
