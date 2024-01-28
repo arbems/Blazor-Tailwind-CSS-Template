@@ -2,7 +2,7 @@
 This repository contains Blazor WebAssembly + Tailwind CSS example template, to start building attractive and functional web applications.
 
 ## Technologies
-* [ASP.NET Core Blazor](https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-8.0)
+* [ASP.NET Core 8 Blazor](https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-8.0)
 * [Tailwind CSS v3.x](https://github.com/tailwindlabs/tailwindcss/releases)
 
 ## Versions
